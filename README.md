@@ -1,0 +1,2 @@
+# SemanaTec
+Ejemplo de clase
